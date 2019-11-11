@@ -1,0 +1,24 @@
+body, #root{
+  overflow: hidden;
+}
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-image: url(./assets/bg.jpg); */
+  background-size: cover;
+}
+.card-footer{
+  display: flex;
+  justify-content: center;
+}
+
+@font-face {
+  font-family: super;
+  src: url(../assets/Super_Air_Ben.ttf);
+}
+*{
+  color:white
+}
