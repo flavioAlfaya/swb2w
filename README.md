@@ -24,7 +24,12 @@ As informações sobre os planetas do Star Wars encontram-se na API [SWAPI](http
 - [Axios](https://www.npmjs.com/package/axios)
 - [API SWAPI](https://swapi.co/)
 - [NPM](https://www.npmjs.com/)
+- [Heroku](https://www.heroku.com/)
 
+
+## Acesso online
+
+Esta aplicação pode ser acessada [online](https://sw-b2w.herokuapp.com/) 
 
 # Execução do Projeto
 
