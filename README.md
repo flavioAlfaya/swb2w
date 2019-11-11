@@ -21,7 +21,7 @@ As informações sobre os planetas do Star Wars encontram-se na API [SWAPI](http
 - CSS3
 - Javascript (ES6)
 - [React.js](https://reactjs.org/)
-- [React-router-dom](https://www.npmjs.com/package/react-router-dom)
+- [Axios](https://www.npmjs.com/package/axios)
 - [API SWAPI](https://swapi.co/)
 - [NPM](https://www.npmjs.com/)
 
@@ -30,7 +30,8 @@ As informações sobre os planetas do Star Wars encontram-se na API [SWAPI](http
 
 #### - Primeiro:
 
-Instale o [Node](https://nodejs.org),  ou o [Yarn](https://yarnpkg.com/)
+Instale o [Node](https://nodejs.org)  ou o [Yarn](https://yarnpkg.com/).
+
 Caso já tenha um dos dois gerenciadores de dependências pule esta etapa.
 
 #### - Segundo:
